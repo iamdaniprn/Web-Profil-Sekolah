@@ -1,0 +1,1 @@
+<img class="fit" src="<?php echo base_url() ?>assets/img/header.jpg" />
